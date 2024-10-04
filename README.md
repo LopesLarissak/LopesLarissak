@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 What's up?</h1>
 
-<!--
-**LopesLarissak/LopesLarissak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Larissa Lopes</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim:</h2>
+
+###
+
+<p align="left">✨ Gosto de ampliar meu nível de conhecimento em diversas áreas. <br>📚Gosto de programação. <br>🎯 Quero desenvolver soluções tecnologicas de cunho assistivo e social.<br>🎲 Comunicação, musculação, assistir séries....</p>
+
+###
+
+<h2 align="left">Programo com:</h2>
+
+###
+
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width='80px' alt='python' />
+</div>
+
+###
