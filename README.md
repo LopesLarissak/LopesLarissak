@@ -19,12 +19,11 @@
 ###
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width='80px' alt='python' />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width='90px' alt='python' />
 </div>
 
 <div align="right">
-    <img src="![image](https://github.com/user-attachments/assets/929a4b56-a254-4bbf-96bd-42532c482527)
-" width='80px' alt='Java' />
+    <img src="![image](https://github.com/user-attachments/assets/929a4b56-a254-4bbf-96bd-42532c482527)" width='90px' alt='Java' />
 </div>
 
 ###
