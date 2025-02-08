@@ -12,7 +12,7 @@
 
 <p align="left">✨Estudo na faculdade Unicatolica de Quixadá.
     
-    Estudo  Sistemas de informação e já estou no terceiro semestre.
+    Curso Sistemas de informação e já estou no terceiro semestre.
     Gosto de ampliar meu nível de conhecimento em diversas áreas.
 ###
  <br align="left">📚Gosto de programação. <br>🎯 Quero desenvolver soluções tecnologicas de cunho assistivo e social.<br>🎲 Aprendendo sobre banco de dados, P.O.O, design e redes de computadores.</p>
